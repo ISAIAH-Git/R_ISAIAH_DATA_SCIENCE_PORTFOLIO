@@ -2,14 +2,17 @@
 
 # Example:
 
->>> a = "this is a string"
->>> a = a.split(" ") # a is converted to a list of strings. 
->>> print a
+a = "this is a string"
+a = a.split(" ") # a is converted to a list of strings. 
+ print a
+
 ['this', 'is', 'a', 'string']
+
 Joining a string is simple:
 
->>> a = "-".join(a)
->>> print a
+ a = "-".join(a)
+ print a
+
 this-is-a-string 
 
 # Task
@@ -25,6 +28,6 @@ Print the formatted string as explained above.
 
 this is a string   
 
-Sample Output
+# Sample Output
 
 this-is-a-string
