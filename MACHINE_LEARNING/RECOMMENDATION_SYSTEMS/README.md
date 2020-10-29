@@ -1,1 +1,1 @@
-![](Recommendations_sys.png)
+![](Recommendation_sys.png)
